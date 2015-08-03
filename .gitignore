@@ -52,5 +52,3 @@ crashlytics-build.properties
 # Additional file formats
 *.DS_Store
 .DS_Store
-
-/node_modules/
